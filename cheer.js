@@ -3,4 +3,5 @@ function cheer(name){
 }
 
 let teamName = "ABCD";
-cheer(teamName);
+let language = 'javascript';
+cheer(language);
