@@ -6,3 +6,4 @@ function greet(name) {
   greet(name1);  
   greet(name2);
 
+
