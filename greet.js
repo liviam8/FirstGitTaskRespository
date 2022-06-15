@@ -2,4 +2,4 @@ function greet() {
     console.log("Greetings!");
   }
   
-  greet();
+  greet("Livia");
