@@ -1,5 +1,5 @@
-function count() {
-    console.log(35);
+function count(param) {
+    console.log(param);
 };
 
-count();
+count(35);
