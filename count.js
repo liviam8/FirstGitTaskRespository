@@ -1,5 +1,7 @@
-function count(param) {
-    console.log(`Counting the countless ${param}`);
+
+function count(param, number) {
+    console.log(param, number);
+
 };
 
-count(8);
+count('bea', 8);

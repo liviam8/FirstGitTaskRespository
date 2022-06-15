@@ -1,5 +1,5 @@
-function greet() {
-    console.log("Greetings!");
-  }
-  
-  greet("Livia");
+function greet(param) {
+    console.log(param);
+};
+  greet("Bea");
+
