@@ -1,5 +1,6 @@
-function future(){
-  console.log('Aquarious');
+function future(horoscope){
+  console.log(horoscope);
 }
 
-future();
+let horoscope = 'Aquarious'
+future(horoscope);
