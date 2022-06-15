@@ -2,5 +2,5 @@ function cheer(name){
     console.log(name);
 }
 
-let teamName = "abcd";
+let teamName = "ABCD";
 cheer(teamName);
