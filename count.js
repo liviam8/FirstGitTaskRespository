@@ -2,4 +2,4 @@ function count(param) {
     console.log(param);
 };
 
-count(35);
+count(8);
