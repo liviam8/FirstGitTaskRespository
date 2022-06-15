@@ -1,8 +1,7 @@
-function cheer(name, language){
-    console.log(name);
-    console.log(language);
+function cheer(name){
+    console.log("Cheer for the ");
 }
 
 let teamName = "ABCD";
 let language = 'javascript';
-cheer(teamName, language);
+cheer(teamName);
