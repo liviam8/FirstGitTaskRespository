@@ -1,9 +1,5 @@
 function greet() {
-    console.log("Howdy!");
-  }
-  
-<<<<<<< HEAD
+    console.log("Hello!");
+  }  
+
   greet();
-=======
-  greet("Bea");
->>>>>>> 03b8bcf (b 33)
