@@ -1,5 +1,5 @@
-function count(param) {
-    console.log(param);
+function count(param, number) {
+    console.log(param, number);
 };
 
-count(8);
+count('bea', 8);
