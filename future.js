@@ -2,5 +2,5 @@ function future(horoscope){
   console.log(horoscope);
 }
 
-let horoscope = 'Aquarious'
+let horoscope = 'rat'
 future(horoscope);
